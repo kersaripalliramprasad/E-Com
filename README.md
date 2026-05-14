@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Backend API
 
 A **production-style E-Commerce backend application** built with **Spring Boot**, providing secure REST APIs for authentication and product management.
@@ -218,3 +219,6 @@ Backend Developer | Java | Spring Boot
 
 
 ⭐ If you found this project useful, consider giving it a star!
+=======
+# E-Com
+>>>>>>> e506f489ba74466f28aadfd29e1a065fa2fd623a
